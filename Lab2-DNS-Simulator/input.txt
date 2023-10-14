@@ -1,0 +1,28 @@
+BEGIN_DATA
+NR localhost
+RDS localhost
+TDS_com localhost
+TDS_edu localhost
+ADS1 localhost
+ADS2 localhost
+ADS3 localhost
+ADS4 localhost
+ADS5 localhost
+ADS6 localhost
+List_of_ADS1
+www.abank.com 202.15.5.1
+smtp.abank.com 202.15.5.2
+ftp.abank.com 202.15.5.3
+sshd1.abank.com 202.15.5.4
+vpn.abank.com 202.15.5.5
+List_of_ADS2
+List_of_ADS3
+List_of_ADS4
+www.green.edu 192.13.5.1
+smtp.green.edu 192.13.5.2
+ftp.green.edu 192.13.5.3
+sshd1.green.edu 192.13.5.4
+vpn.green.edu 192.13.5.5
+List_of_ADS5
+List_of_ADS6
+END_DATA

@@ -1,0 +1,1 @@
+Makefile not required for python, commands to run code can be found in the README.md file

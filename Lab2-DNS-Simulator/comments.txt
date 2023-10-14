@@ -1,0 +1,8 @@
+I learnt a lot about new python commands
+I learnt forking in python
+I tried to write as short code as possiblle
+I got to know about script file
+I learnt a lot of stuff from this assignment
+ 
+I think the input can be given in a better way
+It took time to parse the input properly

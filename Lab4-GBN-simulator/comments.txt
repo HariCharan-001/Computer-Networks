@@ -1,0 +1,10 @@
+The logic was pretty straight forward but while implementing we have to create a lot of threads.
+These lead to race conditions and it took me lot of time to figure out that I was doing a parallel write to a variable.
+In the end I learnt a lot from this assignment. 
+I learnt the implementation of semaphores (acquire and lock) in python. 
+I felt the assignment a bit too much implementation. 
+I learnt that it is good to test the code at each step rather than writing everything and testing
+
+
+Suggestions:
+I think the assignment can be modified a bit to reduce the implementation part and focus more on logic

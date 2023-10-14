@@ -1,0 +1,30 @@
+Script started on Thu Apr  6 13:20:37 2023
+[1m[7m%[27m[1m[0m                                                                                                                                   [0m[27m[24m[Jcharansrikar@Haris-MacBook-Air CS20B086-Lab4 % [K[?2004hexitpython3 GBN_sender.py -n 20 -w 5 -b 10 -l 128 -s localhost -p 13000 -r 10 -d[76Dexit                                                                        [72Dpython3 GBN_sender.py -n 20 -w 5 -b 10 -l 128 -s localhost -p 13000 -r 10 -d[?2004l
+Seq #: 0 Time generated: 1680767442721 : 825 RTT: 3.0357837677001953 Number of Attempts:  1
+Seq #: 1 Time generated: 1680767442723 : 698 RTT: 1.2202262878417969 Number of Attempts:  1
+Seq #: 2 Time generated: 1680767442723 : 938 RTT: 1.1630058288574219 Number of Attempts:  1
+Seq #: 3 Time generated: 1680767442724 : 146 RTT: 13.310909271240234 Number of Attempts:  1
+Seq #: 4 Time generated: 1680767442724 : 335 RTT: 19.45185661315918 Number of Attempts:  1
+Seq #: 5 Time generated: 1680767442725 : 135 RTT: 24.669885635375977 Number of Attempts:  1
+Seq #: 6 Time generated: 1680767442737 : 413 RTT: 12.412786483764648 Number of Attempts:  1
+Seq #: 7 Time generated: 1680767442749 : 841 RTT: 12.65716552734375 Number of Attempts:  1
+Seq #: 8 Time generated: 1680767442762 : 466 RTT: 12.21013069152832 Number of Attempts:  1
+Seq #: 9 Time generated: 1680767442774 : 654 RTT: 25.16007423400879 Number of Attempts:  1
+Seq #: 10 Time generated: 1680767442904 : 835 RTT: 12.891054153442383 Number of Attempts:  1
+Seq #: 11 Time generated: 1680767443029 : 53 RTT: 12.869119644165039 Number of Attempts:  1
+Seq #: 12 Time generated: 1680767443153 : 211 RTT: 12.099027633666992 Number of Attempts:  1
+Seq #: 13 Time generated: 1680767443276 : 628 RTT: 12.539863586425781 Number of Attempts:  1
+Seq #: 14 Time generated: 1680767443400 : 490 RTT: 12.214899063110352 Number of Attempts:  1
+Seq #: 15 Time generated: 1680767443529 : 900 RTT: 12.253999710083008 Number of Attempts:  1
+Seq #: 16 Time generated: 1680767443542 : 138 RTT: 11.766910552978516 Number of Attempts:  1
+Seq #: 17 Time generated: 1680767443665 : 178 RTT: 12.525081634521484 Number of Attempts:  1
+Seq #: 18 Time generated: 1680767443800 : 749 RTT: 12.55488395690918 Number of Attempts:  1
+Seq #: 19 Time generated: 1680767443924 : 581 RTT: 11.815071105957031 Number of Attempts:  1
+PACKET_GEN_RATE 10
+PACKET_LENGTH 128
+Retransmission ratio 1.0
+Average RTT: 12.441086769104004 ms 
+
+[1m[7m%[27m[1m[0m                                                                                                                                   [0m[27m[24m[Jcharansrikar@Haris-MacBook-Air CS20B086-Lab4 % [K[?2004heexit[?2004l
+
+Script done on Thu Apr  6 13:20:45 2023

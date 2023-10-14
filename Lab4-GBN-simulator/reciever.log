@@ -1,0 +1,28 @@
+Script started on Thu Apr  6 13:20:20 2023
+[1m[7m%[27m[1m[0m                                                                                                                                   [0m[27m[24m[Jcharansrikar@Haris-MacBook-Air CS20B086-Lab4 % [K[?2004hexitpython3 GBN_reciever.py -d -p 12000 -n 20 -e 0.0000000001[10D25        [8D00000000010[2C[P[22C [26D3[2C0 -n 20 -e 0.[8C01[25D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+Reciever up and running on port: 13000
+Seq #: 0 Time recieved: 1680767442723 : 816  Packet dropped: False
+Seq #: 1 Time recieved: 1680767442723 : 998  Packet dropped: False
+Seq #: 2 Time recieved: 1680767442724 : 183  Packet dropped: False
+Seq #: 3 Time recieved: 1680767442724 : 363  Packet dropped: False
+Seq #: 4 Time recieved: 1680767442724 : 680  Packet dropped: False
+Seq #: 5 Time recieved: 1680767442731 : 521  Packet dropped: False
+Seq #: 6 Time recieved: 1680767442743 : 925  Packet dropped: False
+Seq #: 7 Time recieved: 1680767442756 : 566  Packet dropped: False
+Seq #: 8 Time recieved: 1680767442768 : 422  Packet dropped: False
+Seq #: 9 Time recieved: 1680767442787 : 382  Packet dropped: False
+Seq #: 10 Time recieved: 1680767442911 : 524  Packet dropped: False
+Seq #: 11 Time recieved: 1680767443035 : 705  Packet dropped: False
+Seq #: 12 Time recieved: 1680767443159 : 855  Packet dropped: False
+Seq #: 13 Time recieved: 1680767443283 : 289  Packet dropped: False
+Seq #: 14 Time recieved: 1680767443406 : 846  Packet dropped: False
+Seq #: 15 Time recieved: 1680767443536 : 268  Packet dropped: False
+Seq #: 16 Time recieved: 1680767443548 : 96  Packet dropped: False
+Seq #: 17 Time recieved: 1680767443671 : 835  Packet dropped: False
+Seq #: 18 Time recieved: 1680767443807 : 429  Packet dropped: False
+Seq #: 19 Time recieved: 1680767443931 : 255  Packet dropped: False
+
+Recieved 20 packets successfully, terminating reciever
+[1m[7m%[27m[1m[0m                                                                                                                                   [0m[27m[24m[Jcharansrikar@Haris-MacBook-Air CS20B086-Lab4 % [K[?2004heexit[?2004l
+
+Script done on Thu Apr  6 13:20:49 2023

@@ -1,0 +1,79 @@
+Router 4
+
+Routing Talbe at Time 7
+Destination        Path            Cost
+0    4-0    9
+1    4-3-1    14
+2    4-5-2    11
+3    4-3    6
+4    4    0
+5    4-5    5
+6    4-6    9
+7    4-7    7
+
+Routing Talbe at Time 14
+Destination        Path            Cost
+0    4-0    6
+1    4-6-1    11
+2    4-0-2    11
+3    4-3    9
+4    4    0
+5    4-5    8
+6    4-6    6
+7    4-7    10
+
+Routing Talbe at Time 21
+Destination        Path            Cost
+0    4-0    5
+1    4-5-1    12
+2    4-0-2    11
+3    4-3    5
+4    4    0
+5    4-5    7
+6    4-6    9
+7    4-7    5
+
+Routing Talbe at Time 28
+Destination        Path            Cost
+0    4-0    5
+1    4-0-1    10
+2    4-0-2    10
+3    4-3    8
+4    4    0
+5    4-5    9
+6    4-6    8
+7    4-7    5
+
+Routing Talbe at Time 35
+Destination        Path            Cost
+0    4-0    10
+1    4-5-1    13
+2    4-5-2    11
+3    4-3    9
+4    4    0
+5    4-5    6
+6    4-6    9
+7    4-7    9
+
+Routing Talbe at Time 42
+Destination        Path            Cost
+0    4-0    7
+1    4-5-1    13
+2    4-5-2    10
+3    4-3    8
+4    4    0
+5    4-5    5
+6    4-6    9
+7    4-7    8
+
+Routing Talbe at Time 49
+Destination        Path            Cost
+0    4-0    7
+1    4-5-1    12
+2    4-3-2    12
+3    4-3    7
+4    4    0
+5    4-5    5
+6    4-6    7
+7    4-7    10
+
